@@ -1,0 +1,6 @@
+framework module Pods_EZT {
+  umbrella header "Pods-EZT-umbrella.h"
+
+  export *
+  module * { export * }
+}

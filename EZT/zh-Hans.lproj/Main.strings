@@ -1,0 +1,21 @@
+
+/* Class = "UINavigationItem"; title = "登录"; ObjectID = "7F8-LL-OD9"; */
+"7F8-LL-OD9.title" = "登录";
+
+/* Class = "UITextField"; placeholder = "验证码"; ObjectID = "BKo-of-fgw"; */
+"BKo-of-fgw.placeholder" = "验证码";
+
+/* Class = "UITextField"; placeholder = "请输入密码"; ObjectID = "HZv-MG-YMr"; */
+"HZv-MG-YMr.placeholder" = "请输入密码";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "ZIb-ST-t9p"; */
+"ZIb-ST-t9p.normalTitle" = "登录";
+
+/* Class = "UITextField"; placeholder = "请输入账号"; ObjectID = "aGW-be-2h4"; */
+"aGW-be-2h4.placeholder" = "请输入账号";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "l4m-pI-KYC"; */
+"l4m-pI-KYC.normalTitle" = "忘记密码";
+
+/* Class = "UINavigationItem"; title = "登录"; ObjectID = "vbw-D4-aZZ"; */
+"vbw-D4-aZZ.title" = "登录";
